@@ -17,7 +17,7 @@ const projects: Project[] = [
     link: "https://zephyr1.fly.dev/",
   },
   {
-    title: "Calendar Utility | Playtimer",
+    title: "Calendar Utility | The Booster Box Events Calendar",
     techs: ["ReactJS", "AWS API Gateway", "AWS Lambda Function"],
     link: "https://theboosterbox.com/calendar",
     isComingSoon: false,
