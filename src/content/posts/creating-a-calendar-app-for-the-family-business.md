@@ -130,4 +130,6 @@ After the owners reviewed the component, they praised the design, and were grate
 
 All in all, I'm incredibly grateful for the experience, I felt like I've grown a ton in my own personal resillience having to modify my plans, adapt to new technologies, and continually put negative thought spirals out of mind to be able to stay level headed enough to get the work done and delivered. I'm excited to see what's next, and how I can continue to grow as a Software Developer.
 
+---
+
 Thanks so much for sticking around and reading the entirety of this post, if you have any thoughts on the app, or my process, or just want to chat, feel free to reach out to me at my email - anthony.john.medina@gmail.com.
