@@ -1,7 +1,7 @@
 ---
-title: 'The Making of Playtimer'
+title: 'The Making of Playtimer (Part 1)'
 publishedAt: 2023-10-14
-description: 'Part 1 - Messing with Time.'
+description: 'Messing with Time.'
 slug: 'the-making-of-playtimer-1.md'
 isPublish: true
 ---
