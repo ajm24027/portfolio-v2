@@ -7,14 +7,10 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "AI Chatbot | ChemChat",
-    techs: ["ReactJS", "Material UI", "JSON Web Token"],
-    link: "https://chemchat.surge.sh/",
-  },
-  {
-    title: "Discussion Forum | Zephyr",
-    techs: ["Python", "Django", "PostgreSQL"],
-    link: "https://zephyr1.fly.dev/",
+    title: "Utility Timer | Playtimer",
+    techs: ["ReactJS", "TypeScript", "UX Design"],
+    link: "https://playtimer.anthonyjmedina.com",
+    isComingSoon: false,
   },
   {
     title: "Calendar Utility | The Booster Box Events Calendar",
@@ -23,10 +19,14 @@ const projects: Project[] = [
     isComingSoon: false,
   },
   {
-    title: "Utility Timer | Playtimer",
-    techs: ["ReactJS", "TypeScript", "UX Design"],
-    link: "/",
-    isComingSoon: true,
+    title: "AI Chatbot | ChemChat",
+    techs: ["ReactJS", "Material UI", "JSON Web Token"],
+    link: "https://chemchat.surge.sh/",
+  },
+  {
+    title: "Discussion Forum | Zephyr",
+    techs: ["Python", "Django", "PostgreSQL"],
+    link: "https://zephyr1.fly.dev/",
   },
 ];
 
