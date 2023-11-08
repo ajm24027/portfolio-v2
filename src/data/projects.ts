@@ -7,7 +7,7 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Utility Timer | Playtimer",
+    title: "Timer Utility | Playtimer",
     techs: ["ReactJS", "TypeScript", "UX Design"],
     link: "https://playtimer.anthonyjmedina.com",
     isComingSoon: false,
