@@ -39,5 +39,5 @@
 }
 
 .post img {
-  @apply flex justify-center m-auto rounded-md;
+  @apply m-auto flex justify-center rounded-md;
 }

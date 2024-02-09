@@ -1,7 +1,7 @@
 ---
 title: 'Using AWS CloudFront to Speedup My App'
 publishedAt: 2023-12-01
-description: 'Revisiting Playtimer'
+description: 'Revisiting Playtimer.'
 slug: 'revisiting-playtimer.md'
 isPublish: true
 ---

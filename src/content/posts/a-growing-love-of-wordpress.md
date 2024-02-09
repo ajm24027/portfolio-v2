@@ -1,7 +1,7 @@
 ---
 title: 'A Growing Love for WordPress'
 publishedAt: 2023-11-29
-description: "How I'm using WP REST API"
+description: "How I'm using WP REST API."
 slug: 'a-growing-love-for-wordpress.md'
 isPublish: true
 ---
